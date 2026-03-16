@@ -100,23 +100,19 @@ Não tenho informações necessárias para responder sua pergunta.
 
 ### Exemplo
 
-### Em contexto
-
 ```text
-Faca sua pergunta: O que é o GPT-5?
+Faça sua pergunta: Qual o faturamento da Empresa SuperTechIABrazil?
 
-PERGUNTA: O que é o GPT-5?
-RESPOSTA: O GPT-5 é um sistema unificado da OpenAI que combina dois tipos de modelos:
-- modelos rápidos de alto throughput (gpt-5-main e gpt-5-main-mini), para respostas rápidas;
-- modelos de raciocínio mais profundo (gpt-5-thinking e gpt-5-thinking-mini), para problemas que exigem mais reflexão.
+PERGUNTA: Qual o faturamento da Empresa SuperTechIABrazil?
+RESPOSTA: O faturamento da SuperTechIABrazil é de R$ 10.000.000,00.
 ```
 
 ### Fora de contexto
 
 ```text
-Faça sua pergunta: Qual é a capital da França?
+Faça sua pergunta: Quantos clientes temos em 2024?
 
-PERGUNTA: Qual é a capital da França?
+PERGUNTA: Quantos clientes temos em 2024?
 RESPOSTA: Não tenho informações necessárias para responder sua pergunta.
 ```
 
